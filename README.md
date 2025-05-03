@@ -8,7 +8,7 @@ A RESTful API for managing school student records using Node.js, Express, and My
 ## Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<username>/school-management-system.git
+   git clone https://github.com/snjugunanjenga/school-management-system.git
    cd school-management-system
 
 2. **Install dependencies:**
