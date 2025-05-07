@@ -86,3 +86,6 @@ async function deleteTeacher(req, res) {
 }
 
 module.exports = { getAllTeachers, getTeacherById, createTeacher, updateTeacher, deleteTeacher };
+
+
+
