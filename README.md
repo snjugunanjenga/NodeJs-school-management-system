@@ -149,7 +149,7 @@ The application is configured for deployment on Vercel. Make sure to set the fol
 MIT
 
 #### Author : SNN
-#### Github : @snjugunanjenga
+#### Github : @snjungunanjenga
 
 
 
